@@ -3,7 +3,7 @@ A python program that sends emails when the AQI has passed a specified threshold
 
 Tested with an sds011 sensor on a raspberry pi zero w.
 
-More information on the sensor can be found here: https://aqicn.org/sensor/sds011/
+More information about the sensor can be found here: https://aqicn.org/sensor/sds011/
 
 **Dependencies**
 - Python
